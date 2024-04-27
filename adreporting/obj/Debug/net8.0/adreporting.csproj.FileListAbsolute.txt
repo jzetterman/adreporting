@@ -1,0 +1,14 @@
+p:\adreporting\adreporting\bin\Debug\net8.0\adreporting.exe
+p:\adreporting\adreporting\bin\Debug\net8.0\adreporting.deps.json
+p:\adreporting\adreporting\bin\Debug\net8.0\adreporting.runtimeconfig.json
+p:\adreporting\adreporting\bin\Debug\net8.0\adreporting.dll
+p:\adreporting\adreporting\bin\Debug\net8.0\adreporting.pdb
+p:\adreporting\adreporting\obj\Debug\net8.0\adreporting.GeneratedMSBuildEditorConfig.editorconfig
+p:\adreporting\adreporting\obj\Debug\net8.0\adreporting.AssemblyInfoInputs.cache
+p:\adreporting\adreporting\obj\Debug\net8.0\adreporting.AssemblyInfo.cs
+p:\adreporting\adreporting\obj\Debug\net8.0\adreporting.csproj.CoreCompileInputs.cache
+p:\adreporting\adreporting\obj\Debug\net8.0\adreporting.dll
+p:\adreporting\adreporting\obj\Debug\net8.0\refint\adreporting.dll
+p:\adreporting\adreporting\obj\Debug\net8.0\adreporting.pdb
+p:\adreporting\adreporting\obj\Debug\net8.0\adreporting.genruntimeconfig.cache
+p:\adreporting\adreporting\obj\Debug\net8.0\ref\adreporting.dll
